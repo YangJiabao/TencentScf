@@ -30,7 +30,7 @@
 #### 如果涉及一个变量配置多个值，如多个cookie，多个取消订阅关键字，去掉里面的 *__[空格]()__* 和 __*[换行]()*__ 使用 `&` 连接   
 
 > 排查问题第一步先看自己[腾讯云函数](https://console.cloud.tencent.com/scf/list?rid=5&ns=default)那边的环境变量跟自己在仓库配置的 `secrets` 是否一致
-![image](https://user-images.githubusercontent.com/6993269/99937191-06617680-2da0-11eb-99ea-033f2c655683.png)
+![image](icon/iCloud.png)
 
 
 ### 4.执行action workflow进行部署，workflow未报错即部署成功
